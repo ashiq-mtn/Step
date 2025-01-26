@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 25 Jan 2025 22:24:13 at https://templates.hibootstrap.com/jexi/default/index-2.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://templates.hibootstrap.com/jexi/default/index-2.html -O1 "C:\My Web Sites\Jexi" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:26:35	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/jexi/default/assets/fonts/revicons/revicons.eot?5510888 (from https://templates.hibootstrap.com/jexi/default/assets/css/settings.css)
+22:26:35	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/jexi/default/assets/fonts/revicons/revicons.woff?5510888 (from https://templates.hibootstrap.com/jexi/default/assets/css/settings.css)
+22:26:35	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/jexi/default/assets/fonts/revicons/revicons.ttf?5510888 (from https://templates.hibootstrap.com/jexi/default/assets/css/settings.css)
+22:26:35	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/jexi/default/assets/fonts/revicons/revicons.svg?5510888 (from https://templates.hibootstrap.com/jexi/default/assets/css/settings.css)
+22:26:35	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/jexi/default/assets/css/openhand.cur (from https://templates.hibootstrap.com/jexi/default/assets/css/settings.css)
+22:26:35	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/jexi/default/assets/css/closedhand.cur (from https://templates.hibootstrap.com/jexi/default/assets/css/settings.css)
+22:26:35	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/jexi/default/assets/assets/gridtile.png (from https://templates.hibootstrap.com/jexi/default/assets/css/settings.css)
+22:26:35	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/jexi/default/assets/assets/gridtile_white.png (from https://templates.hibootstrap.com/jexi/default/assets/css/settings.css)
+22:26:35	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/jexi/default/assets/assets/gridtile_3x3.png (from https://templates.hibootstrap.com/jexi/default/assets/css/settings.css)
+22:26:35	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/jexi/default/assets/assets/gridtile_3x3_white.png (from https://templates.hibootstrap.com/jexi/default/assets/css/settings.css)
+22:26:35	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/jexi/default/assets/images/coloredbg.png (from https://templates.hibootstrap.com/jexi/default/assets/css/settings.css)
+22:26:35	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/jexi/default/assets/images/loader.gif (from https://templates.hibootstrap.com/jexi/default/assets/css/settings.css)
+22:26:35	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/jexi/default/assets/images/curved-line.png (from https://templates.hibootstrap.com/jexi/default/assets/css/style.css)
+22:26:35	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/jexi/default/assets/images/half-circle-shape.png (from https://templates.hibootstrap.com/jexi/default/assets/css/style.css)
+22:26:35	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/jexi/default/privacy-policy (from https://templates.hibootstrap.com/jexi/default/authentication.html)
+22:26:35	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/jexi/default/blog-details.html (from https://templates.hibootstrap.com/jexi/default/search-page.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 22 seconds : 320 links scanned, 303 files written (14577474 bytes overall) [9886410 bytes received at 69622 bytes/sec], 6772811 bytes transferred using HTTP compression in 110 files, ratio 26%, 40.0 requests per connection
+(16 errors, 0 warnings, 0 messages)
